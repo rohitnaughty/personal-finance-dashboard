@@ -1,3 +1,4 @@
+<img width="864" alt="24 05 2023_11 34 15_REC" src="https://github.com/rohitnaughty/personal-finance-dashboard/assets/113165433/0ef086b9-87bc-41ad-b877-a9be100ed578">
 # Personal-Finance-Dashboard
 Power BI dashboard that empowers individuals to take control of their personal finances.
 The dashboard provides valuable insights and visualizations to track income, expenses, and 
